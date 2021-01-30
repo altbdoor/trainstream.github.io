@@ -2,9 +2,9 @@
     "$schema": "./stream_definitions.json",
     "data": [
         {
-            "name": "Tokyo Roppongi Sky View 222",
-            "isAlive": true,
-            "tags": "traffic, city, other",
+            "name": "Tokyo Roppongi Sky View",
+            "isAlive": false,
+            "tags": "traffic, city",
             "images": [
                 {
                     "src": "/pictures/7.jpg",
