@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "Tokyo Roppongi Sky View",
-            "isAlive": true,
+            "isAlive": false,
             "tags": "traffic, city, other",
             "images": [
                 {
